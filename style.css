@@ -1,0 +1,60 @@
+.slider-bg {
+
+    background-color: #FEEAE9;
+}
+
+.section-1 {
+
+    margin-top: 100px;
+}
+
+.prime-color {
+
+    color: white;
+    background-color: #ff2f81;
+}
+
+.prime-text {
+
+    color: #ff2f81;
+
+}
+
+.img {
+
+    width: 35%;
+}
+
+
+
+.cat-1 {
+
+    background-color: #FFA500;
+}
+
+.cat-2 {
+
+    background-color: #DA70D6;
+}
+
+.cat-3 {
+
+    background-color: #0000FF;
+}
+
+.sub {
+
+    background-color: #FEEAE9;
+}
+
+
+
+/* for mobile screen  */
+@media screen and (max-width:576px) {
+
+    .text-section {
+
+        text-align: center;
+    }
+
+}
